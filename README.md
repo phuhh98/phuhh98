@@ -1,27 +1,11 @@
 # Hi there! 👋  
-I'm Huỳnh Hoài Phú (aka MeoBeo), a dedicated software engineer with strong backend and full-stack development skills. I enjoy solving real-world problems through scalable, maintainable, and elegant software solutions. Here's a little more about me:
-
----
+I’m Huỳnh Hoài Phú (MeoBeo), a software engineer who loves building reliable, user-friendly products with clean and scalable code ✨
 
 ## 🔍 About Me
-
-💼 I'm currently working as a **Software Engineer at EPAM Systems**, contributing to enterprise-grade applications and platforms.
-
-🚀 I specialize in **JavaScript**, **TypeScript**, and modern web frameworks.
-
-⚛️ I have strong experience with **React.js**, **Next.js**, and other libraries in the React ecosystem.
-
-🧠 I’m passionate about designing reliable backend systems using **Node.js**, **Express**, and **NestJS**.
-
-🛠️ I'm confident in working with tools like **Git**, **Docker**, and **CI/CD pipelines**.
-
-🧪 I follow Agile methodologies and apply solid principles in every stage of software development, from architecture to testing.
-
-🌍 I'm fluent in English and enjoy collaborating with global teams on exciting and impactful projects.
-
-⭐ Check out my GitHub for some of my side projects and contributions!
-
----
+💼 Software Engineer at EPAM Systems  
+🚀 Focused on JavaScript/TypeScript and modern web development  
+⚛️ Experienced with React and the Node.js ecosystem  
+🤝 Enjoy working in Agile teams and collaborating globally  
 
 ## 🛠️ Skills
 
@@ -31,14 +15,15 @@ I'm Huỳnh Hoài Phú (aka MeoBeo), a dedicated software engineer with strong b
 - Python
 - Go
 
-### Front-end
+### Frontend
 - React.js
 - Next.js
 - Redux
 - Tailwind CSS
-- Styled Components
+- BaseUI
+- Material UI
 
-### Back-end
+### Backend
 - Node.js
 - Express.js
 - NestJS
@@ -49,15 +34,9 @@ I'm Huỳnh Hoài Phú (aka MeoBeo), a dedicated software engineer with strong b
 - GitHub Actions
 - MongoDB
 - PostgreSQL
-- MySQL
 
----
+## 🤝 Let’s Connect
+Feel free to reach out for collaboration or just to say hi 😊  
+📫 [LinkedIn](https://www.linkedin.com/in/hhp-meobeo) | [GitHub](https://github.com/phuhh98)
 
-## 🤝 Let's Connect!
-
-Feel free to reach out if you're interested in collaboration, have a project idea, or just want to connect!  
-📫 [LinkedIn](https://www.linkedin.com/in/hhp-meobeo) | [GitHub](https://github.com/phuhh98) | 
-[phuhh98.netlify.app](phuhh98.netlify.app)
-
-Thanks for visiting my profile! 😊
-
+Thanks for visiting my profile! 🌟
