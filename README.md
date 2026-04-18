@@ -2,7 +2,7 @@
 I’m Huỳnh Hoài Phú (MeoBeo), a software engineer who loves building reliable, user-friendly products with clean and scalable code ✨
 
 ## 🔍 About Me
-💼 Software Engineer at EPAM Systems  
+💼 Fullstack Software Engineer - Vietnam 🇻🇳
 🚀 Focused on JavaScript/TypeScript and modern web development  
 ⚛️ Experienced with React and the Node.js ecosystem  
 🤝 Enjoy working in Agile teams and collaborating globally  
