@@ -3,7 +3,6 @@ I’m Huỳnh Hoài Phú (MeoBeo), a software engineer who loves building reliab
 
 ## 🔍 About Me
 💼 Fullstack Software Engineer - Vietnam 🇻🇳
-
 🚀 Focused on JavaScript/TypeScript and modern web development  
 ⚛️ Experienced with React and the Node.js ecosystem  
 🤝 Enjoy working in Agile teams and collaborating globally  
