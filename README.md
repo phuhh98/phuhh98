@@ -1,6 +1,8 @@
 # Hi there! 👋  
 I’m Huỳnh Hoài Phú (MeoBeo), a software engineer who loves building reliable, user-friendly products with clean and scalable code ✨
 
+Find me on [<img src="https://linksta.cc/assets/linkstack/images/logo.svg" width="16"> LinkStack](https://linksta.cc/@phuhh98)
+
 ## 🔍 About Me
 💼 Fullstack Software Engineer - Vietnam 🇻🇳
 🚀 Focused on JavaScript/TypeScript and modern web development  
